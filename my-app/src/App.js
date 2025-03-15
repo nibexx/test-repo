@@ -10,6 +10,7 @@ function App() {
           This is a sample react application created by ebin for testig purpose.
         </p>
         <p>sample test</p>
+        <h2>By Ebin</h2>
         <a
           className="App-link"
           href="https://reactjs.org"
